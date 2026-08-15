@@ -2,5 +2,8 @@
   "scripts": {
     "start": "node src/app.js",
     "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
   }
 }
